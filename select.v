@@ -83,7 +83,7 @@ pub fn (mut s Selection) run() {
 						cmd_state.stack << entered
 					}
 					else {
-						dump(code)
+						// dump(code)
 					}
 				}
 			}
